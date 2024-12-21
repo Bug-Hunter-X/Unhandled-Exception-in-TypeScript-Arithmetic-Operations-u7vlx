@@ -1,0 +1,1 @@
+This repository demonstrates a common error in TypeScript: unhandled exceptions. The `bug.ts` file contains a function that can throw an error if it receives invalid input.  The `bugSolution.ts` file shows how to handle this error using try-catch blocks. This is a crucial aspect of robust software development.  The error is the classic 'division by zero' error.
